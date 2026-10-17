@@ -1,0 +1,2 @@
+# premium-bone-carve-001-bone-carving-design-pattern-li
+Tired of your bone carving designs being scattered across sketchbooks, photo folders, and memory? The Bone Carving Design Pattern Library is your centralized, digital pattern vault that makes every design instantly accessible and organized.  This Notion template solves the chaos of managing carving patterns by providing a structured database with v
